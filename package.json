@@ -1,0 +1,19 @@
+{
+  "name": "oneforall",
+  "version": "0.0.1",
+  "description": "oneforall is a tool that helps to develop, compile, run and publish nodejs on several platforms, also providing a form of communication between front-end and back-end and code obfuscation.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cirospaciari/oneforall.git"
+  },
+  "author": "Ciro César Martins Spaciari Junior",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cirospaciari/oneforall/issues"
+  },
+  "homepage": "https://github.com/cirospaciari/oneforall#readme"
+}
