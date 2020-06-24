@@ -1,5 +1,5 @@
 
-oneforall is a tool that helps to develop, compile, run and publish nodejs on several platforms, also providing a form of communication between front-end and back-end and code obfuscation.
+one4all is a tool that helps to develop, compile, run and publish nodejs on several platforms, also providing a form of communication between front-end and back-end and code obfuscation.
 
     nodejs-mobile + cordova (android, ios):
     auto-updater, code obfuscation, router and comunication using cordova-bridge.
@@ -14,4 +14,4 @@ oneforall is a tool that helps to develop, compile, run and publish nodejs on se
 Proposal for this package is one code many platforms.
 
 How install:
-npm install oneforall
+npm install one4all
